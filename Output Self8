@@ -1,0 +1,31 @@
+Enter six number
+1
+2
+3
+4
+5
+6
+Row = 0 col = 0 1
+Row = 0 col = 1 2
+Row = 0 col = 2 3
+Row = 1 col = 0 4
+Row = 1 col = 1 5
+Row = 1 col = 2 6
+Enter five number for row a
+1
+2
+3
+4
+Enter five number for row a1
+5
+6
+7
+8
+Row a = 1
+Row a = 2
+Row a = 3
+Row a = 4
+Row a1 = 1
+Row a1 = 2
+Row a1 = 3
+Row a1 = 4
